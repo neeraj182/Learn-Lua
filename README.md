@@ -1,6 +1,5 @@
-# Learn-Lua
-
-![Lua](https://dg8krxphbh767.cloudfront.net/tracks/lua.svg
+# Learn-Lua 
+![Lua](https://dg8krxphbh767.cloudfront.net/tracks/lua.svg)
 
 Lua (pronounced **LOO-ah**, which means _Moon_ in Portuguese) is a simple yet powerful, lightweight, fast, portable and embeddable scripting language. It is designed, implemented, and maintained by a [team](https://www.lua.org/authors.html) at [PUC-Rio](https://www.puc-rio.br/) and is housed at [LabLua](http://www.lua.inf.puc-rio.br/).
 
