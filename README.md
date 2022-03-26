@@ -11,4 +11,7 @@ The home page for Lua is  [Lua.org](https://www.lua.org/). Enjoy!
 
 (Taken from https://www.lua.org/about.html)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. Learn Lua with me.
 
