@@ -13,5 +13,14 @@ The home page for Lua is  [Lua.org](https://www.lua.org/). Enjoy!
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-1. Learn Lua with me.
+# Resources For Learning Lua
 
+1. https://www.lua.org/
+2. Introduction to all aspects of Lua programming by Lua's chief architect:  [Programming in Lua, by Roberto Ierusalimschy](http://www.lua.org/pil/)
+3. http://tylerneylon.com/a/learn-lua/ (Learn Lua in 15 min)
+4. https://github.com/Olivine-Labs/lua-style-guide
+5. https://exercism.org/tracks/lua/
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Learn Lua with me 
